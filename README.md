@@ -55,3 +55,32 @@ year={2025},
 url={https://openreview.net/forum?id=bnhFueOeav}
 }
 ```
+
+Related references:
+
+```bibtex
+@article{GUO2024127191,
+title = {Enhancing the robustness of QMIX against state-adversarial attacks},
+journal = {Neurocomputing},
+volume = {572},
+pages = {127191},
+year = {2024},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2023.127191},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231223013140},
+author = {Weiran Guo and Guanjun Liu and Ziyuan Zhou and Ling Wang and Jiacun Wang},
+}
+```
+
+```bibtex
+@ARTICLE{10977657,
+  author={Guo, Weiran and Liu, Guanjun and Zhou, Ziyuan and Wang, Jiacun and Tang, Ying and Wang, Miaomiao},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={Robust Training in Multiagent Deep Reinforcement Learning Against Optimal Adversary}, 
+  year={2025},
+  volume={55},
+  number={7},
+  pages={4957-4968},
+  doi={10.1109/TSMC.2025.3561276}}
+
+```
