@@ -46,13 +46,12 @@ python src/main.py --config=qmix --env-config=sc2 with env_args.map_name=8m eval
 If you find this work interesting, please cite it as follows:
 
 ```bibtex
-@inproceedings{
-zhou2025robust,
-title={Robust Multi-Agent Reinforcement Learning with Stochastic Adversary},
-author={Ziyuan Zhou and Guanjun Liu and Mengchu Zhou and Weiran Guo},
-booktitle={Forty-second International Conference on Machine Learning},
-year={2025},
-url={https://openreview.net/forum?id=bnhFueOeav}
+@inproceedings{zhou2025robust,
+  title = {Robust Multi-Agent Reinforcement Learning with Stochastic Adversary},
+  author = {Ziyuan Zhou and Guanjun Liu and Mengchu Zhou and Weiran Guo},
+  booktitle = {Forty-second International Conference on Machine Learning},
+  year = {2025},
+  url = {https://openreview.net/forum?id=bnhFueOeav}
 }
 ```
 
@@ -60,27 +59,27 @@ Related references:
 
 ```bibtex
 @article{GUO2024127191,
-title = {Enhancing the robustness of QMIX against state-adversarial attacks},
-journal = {Neurocomputing},
-volume = {572},
-pages = {127191},
-year = {2024},
-issn = {0925-2312},
-doi = {https://doi.org/10.1016/j.neucom.2023.127191},
-url = {https://www.sciencedirect.com/science/article/pii/S0925231223013140},
-author = {Weiran Guo and Guanjun Liu and Ziyuan Zhou and Ling Wang and Jiacun Wang},
+  title = {Enhancing the Robustness of QMIX Against State-Adversarial Attacks},
+  author = {Weiran Guo and Guanjun Liu and Ziyuan Zhou and Ling Wang and Jiacun Wang},
+  journal = {Neurocomputing},
+  volume = {572},
+  pages = {127191},
+  year = {2024},
+  issn = {0925-2312},
+  doi = {https://doi.org/10.1016/j.neucom.2023.127191},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231223013140}
 }
 ```
 
 ```bibtex
-@ARTICLE{10977657,
-  author={Guo, Weiran and Liu, Guanjun and Zhou, Ziyuan and Wang, Jiacun and Tang, Ying and Wang, Miaomiao},
-  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
-  title={Robust Training in Multiagent Deep Reinforcement Learning Against Optimal Adversary}, 
-  year={2025},
-  volume={55},
-  number={7},
-  pages={4957-4968},
-  doi={10.1109/TSMC.2025.3561276}}
-
+@article{guo2025robust,
+  title = {Robust Training in Multiagent Deep Reinforcement Learning Against Optimal Adversary},
+  author = {Weiran Guo and Guanjun Liu and Ziyuan Zhou and Jiacun Wang and Ying Tang and Miaomiao Wang},
+  journal = {IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  volume = {55},
+  number = {7},
+  pages = {4957--4968},
+  year = {2025},
+  doi = {10.1109/TSMC.2025.3561276}
+}
 ```
